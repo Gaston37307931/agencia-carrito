@@ -1,0 +1,15 @@
+Actuá como experto en apps para negocios.
+
+Crear app para:
+[NEGOCIO]
+
+Debe tener:
+- catálogo de productos
+- botón de pedido por WhatsApp
+- diseño simple
+- fácil de usar
+
+Dame:
+- estructura
+- textos listos
+- ideas de mejora
